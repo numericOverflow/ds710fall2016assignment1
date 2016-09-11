@@ -1,8 +1,29 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+	Scott Jilek
 2. Why are you interested in Data Science?
+	My undergrad was computer science, and I've always been interested in data, reporting, and algorithms.  It's an exciting use of technology to learn more about how people act and why using data & technology.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+	My undergrad courses were all Java, but that was back in '99-2003, though I've never been a fan of compiled languages - too much overhead for the type of "utilitarian" programming that I usually do via scripts, etc.  I've never considered myself a proper programmer (either professionally or as a hobbyist), but I am certainly able to write code to do that random tasks I need, either at work or home.  I've always done scripting style programming or similar since college.  I've dabbled in Perl, JavaScript, web (PHP, Coldfusion, etc).  Recently I've done a bit in Python, found it powerful and interesting.  I also consider myself very good with SQL (although it's not a programming language per se) and use it daily at work and have for most of my career.
+		
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+	I have taken a couple courses, one in undergrad, and one with my Data Science degree at University of St. Thomas.  It looks similar to the intro stats class offered by this program.  The course focused on basic stats and used R for most.  I have some basic R knowledge and skills.  At work, Mathematica is the tool of choice, though my use of it is limited and I’m really not a fan of the software.
+
+	I don’t use advanced stats in my daily work, though I probably could more.  I work in an optimization and simulation supply chain group, and we use basic stats, but not “Data Science” stats or much beyond very basic stats.  I’m probably weakest in stats, mostly due to lack of exposure and not a lack of want.  I’m far stronger with technology and software than stats, but I hope to narrow that skill margin as I finish my Data Science degree.
+
 5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
+	As mentioned earlier, I’ve done some homework for a previous stats class using R, though I don’t consider myself an expert, I can do basic tasks and understand the overall workings of the app.
+	
+	I’ve written a few python scripts at home for various automation tasks, and early this year worked on a simulation project at work using python for several months.    For a machine learning course I took this  Spring, I also used python for scikit-learn rather than do the homework in MatLab because I found Matlab cumbersome and wanted to use python and the scikit-learn package that many people  raved about.
+	
+	I would say I can do basic scripting in python, understand most of the basic architecture of python, but most this knowledge was learned “on the fly” and not really based in any specific  proper training so I can “make it work” but probably not in the most efficient way, or the most “pythonic” way.  
+
+6.  What do you hope to learn in this class? 
+	I don’t always “think like python”, since all my programming experience is from before python, I probably don’t take advantage of some of the uniqueness of python.  I want to change this and better learn some of the python basics, which is why I really wanted to take this course.
+	
+	More python & R exposure, since they are the hot tools with data science 
+
 7.  Is there anything else you would like to share with us?
+	As I mentioned, I'm actually enrolled at the University of St. Thomas masters program in Data Science, where I also did my undergrad studies.  Their programming language of choice is Java, which I've never terribly liked.  I feel Python is the more applicable language for data scientists, so I wanted to take this course (kudos for that decision for your program by the way).  I'm currently working full time at 3M in St. Paul, and taking 2 courses per semester to get my masters.
+	
+	I consider myself a very tech savvy person.  I find having a need is what forces me to learn something new.  I wanted to get a better understanding of Linux, so I built a Linux server to monitor control my 75 gallon saltwater aquarium.  I think my first python script was taking an existing google-voice API and using it to automatically send myself text message alerts about temperatures and events on my aquarium.  I didn't know what I was doing, but with enough online research and googling, I can usually figure out just about anything.  That pretty much sums me up - if I want to do something, I find it to be a challenge, and simply figure out how to do it. It isn't always pretty but it gets the job done.
